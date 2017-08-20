@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ZURASTA/design.png?label=ready&title=Ready)](https://waffle.io/ZURASTA/design?utm_source=badge)
 # design
 Collection of all design related work.
 
